@@ -3,6 +3,9 @@
 
 This was inspired by another project -- [Koa11y](https://github.com/open-indy/Koa11y).
 
+## Update!
+This repository represented my proof of concept phase. Head on over to [https://github.com/tulip/jizo](https://github.com/tulip/jizo) to follow continued development, and be sure to give us a star over there as well!
+
 ## What is this?
 While working on some a11y audits (many, really) over the years, I quickly began to yearn for a quick and / or dirty way to generate reports utilizing the veritalbe plethora of tools publicly available. In addition to just _making_ the reports, I really wanted to be able to interact with them _immediately_ in a way that was meaningful.
 
